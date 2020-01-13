@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.balancecontrol.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\DEMOS\\balance-control\\actions.json",
+      "action_manifest_path": "C:\\Unity\\balance-control-2\\actions.json",
       "strings": {
         "en_us": {
           "name": "Balance Control [Testing]"
